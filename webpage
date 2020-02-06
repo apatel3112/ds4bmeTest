@@ -1,9 +1,6 @@
 <html>
-  <head>
-    <title> Simple HTML Web Page </title>
-  </head>
-  <body>
-    <h1> Webpage </h1>
-    <p> Sample webpage within ds4bme repository </p>
-  </body>
+<head><title> My web page </title></head>
+<body>
+This is my web page
+</body>
 </html>
